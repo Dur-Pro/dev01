@@ -1,0 +1,4 @@
+[submodule "Dur-Pro/DevelopedAddons"]
+	path = Dur-Pro/DevelopedAddons
+	url = git@github.com:Dur-Pro/DevelopedAddons.git
+	branch = 15.0
