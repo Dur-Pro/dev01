@@ -2,3 +2,8 @@
 	path = Dur-Pro/DevelopedAddons
 	url = git@github.com:Dur-Pro/DevelopedAddons.git
 	branch = 15.0
+
+[submodule "Dur-Pro/PurchasedAddons"]
+	path = Dur-Pro/PurchasedAddons
+	url = git@github.com:Dur-Pro/PurchasedAddons.git
+	branch = 15.0
