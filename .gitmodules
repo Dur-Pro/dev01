@@ -8,9 +8,3 @@
 	path = OCA/server-ux
 	url = git@github.com:OCA/server-ux.git
 	branch = 15.0
-
-
-[submodule "OCA/website"]
-	path = OCA/website
-	url = git@github.com:OCA/website.git
-	branch = 15.0
