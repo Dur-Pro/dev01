@@ -8,3 +8,8 @@
 	path = OCA/server-ux
 	url = git@github.com:OCA/server-ux.git
 	branch = 15.0
+
+[submodule "Dur-Pro/product-attribute"]
+	path = Dur-Pro/product-attribute
+	url = git@github.com:Dur-Pro/product-attribute.git
+	branch = 15.0
