@@ -1,12 +1,12 @@
-[submodule "OCA/server-tools"]
-	path = OCA/server-tools
-	url = git@github.com:OCA/server-tools.git
+[submodule "Dur-Pro/server-tools"]
+	path = Dur-Pro/server-tools
+	url = git@github.com:Dur-Pro/server-tools.git
 	branch = 15.0
 
 
-[submodule "OCA/server-ux"]
-	path = OCA/server-ux
-	url = git@github.com:OCA/server-ux.git
+[submodule "Dur-Pro/server-ux"]
+	path = Dur-Pro/server-ux
+	url = git@github.com:Dur-Pro/server-ux.git
 	branch = 15.0
 
 [submodule "Dur-Pro/product-attribute"]
